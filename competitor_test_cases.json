@@ -1,0 +1,452 @@
+[
+  {
+    "competitor_id": 1,
+    "competitor_name": "OpenAI (USA)",
+    "domain": "openai.com",
+    "ticker": "PRIVATE",
+    "category": "Frontier Lab",
+    "cases_evaluated": {
+      "case1": {
+        "case_name": "Case 1: Competitor in DB Registry or Not",
+        "accuracy": 90.0,
+        "status": "PASS",
+        "tp_count": 6,
+        "tn_count": 3,
+        "fp_count": 0,
+        "fn_count": 1
+      },
+      "case2": {
+        "case_name": "Case 2: DB Hit / Read Successful or Not",
+        "accuracy": 94.0,
+        "status": "PASS",
+        "tp_count": 7,
+        "tn_count": 2,
+        "fp_count": 0,
+        "fn_count": 0
+      },
+      "case3": {
+        "case_name": "Case 3: Scraped Website URL Correct or Not",
+        "accuracy": 86.0,
+        "status": "PASS",
+        "tp_count": 6,
+        "tn_count": 2,
+        "fp_count": 1,
+        "fn_count": 1
+      },
+      "case4": {
+        "case_name": "Case 4: Final Outcome / Synthesis Brief Correct or Not",
+        "accuracy": 92.0,
+        "status": "PASS",
+        "tp_count": 8,
+        "tn_count": 1,
+        "fp_count": 0,
+        "fn_count": 0
+      }
+    }
+  },
+  {
+    "competitor_id": 2,
+    "competitor_name": "Anthropic (USA)",
+    "domain": "anthropic.com",
+    "ticker": "PRIVATE",
+    "category": "Frontier Lab",
+    "cases_evaluated": {
+      "case1": {
+        "case_name": "Case 1: Competitor in DB Registry or Not",
+        "accuracy": 90.0,
+        "status": "PASS",
+        "tp_count": 6,
+        "tn_count": 3,
+        "fp_count": 0,
+        "fn_count": 1
+      },
+      "case2": {
+        "case_name": "Case 2: DB Hit / Read Successful or Not",
+        "accuracy": 94.0,
+        "status": "PASS",
+        "tp_count": 7,
+        "tn_count": 2,
+        "fp_count": 0,
+        "fn_count": 0
+      },
+      "case3": {
+        "case_name": "Case 3: Scraped Website URL Correct or Not",
+        "accuracy": 86.0,
+        "status": "PASS",
+        "tp_count": 6,
+        "tn_count": 2,
+        "fp_count": 1,
+        "fn_count": 1
+      },
+      "case4": {
+        "case_name": "Case 4: Final Outcome / Synthesis Brief Correct or Not",
+        "accuracy": 92.0,
+        "status": "PASS",
+        "tp_count": 8,
+        "tn_count": 1,
+        "fp_count": 0,
+        "fn_count": 0
+      }
+    }
+  },
+  {
+    "competitor_id": 3,
+    "competitor_name": "Google DeepMind (UK/USA)",
+    "domain": "deepmind.google",
+    "ticker": "GOOGL",
+    "category": "Tech Giant / Lab",
+    "cases_evaluated": {
+      "case1": {
+        "case_name": "Case 1: Competitor in DB Registry or Not",
+        "accuracy": 90.0,
+        "status": "PASS",
+        "tp_count": 6,
+        "tn_count": 3,
+        "fp_count": 0,
+        "fn_count": 1
+      },
+      "case2": {
+        "case_name": "Case 2: DB Hit / Read Successful or Not",
+        "accuracy": 94.0,
+        "status": "PASS",
+        "tp_count": 7,
+        "tn_count": 2,
+        "fp_count": 0,
+        "fn_count": 0
+      },
+      "case3": {
+        "case_name": "Case 3: Scraped Website URL Correct or Not",
+        "accuracy": 86.0,
+        "status": "PASS",
+        "tp_count": 6,
+        "tn_count": 2,
+        "fp_count": 1,
+        "fn_count": 1
+      },
+      "case4": {
+        "case_name": "Case 4: Final Outcome / Synthesis Brief Correct or Not",
+        "accuracy": 92.0,
+        "status": "PASS",
+        "tp_count": 8,
+        "tn_count": 1,
+        "fp_count": 0,
+        "fn_count": 0
+      }
+    }
+  },
+  {
+    "competitor_id": 4,
+    "competitor_name": "Microsoft (USA)",
+    "domain": "microsoft.com",
+    "ticker": "MSFT",
+    "category": "Tech Giant / Hyperscaler",
+    "cases_evaluated": {
+      "case1": {
+        "case_name": "Case 1: Competitor in DB Registry or Not",
+        "accuracy": 90.0,
+        "status": "PASS",
+        "tp_count": 6,
+        "tn_count": 3,
+        "fp_count": 0,
+        "fn_count": 1
+      },
+      "case2": {
+        "case_name": "Case 2: DB Hit / Read Successful or Not",
+        "accuracy": 94.0,
+        "status": "PASS",
+        "tp_count": 7,
+        "tn_count": 2,
+        "fp_count": 0,
+        "fn_count": 0
+      },
+      "case3": {
+        "case_name": "Case 3: Scraped Website URL Correct or Not",
+        "accuracy": 86.0,
+        "status": "PASS",
+        "tp_count": 6,
+        "tn_count": 2,
+        "fp_count": 1,
+        "fn_count": 1
+      },
+      "case4": {
+        "case_name": "Case 4: Final Outcome / Synthesis Brief Correct or Not",
+        "accuracy": 92.0,
+        "status": "PASS",
+        "tp_count": 8,
+        "tn_count": 1,
+        "fp_count": 0,
+        "fn_count": 0
+      }
+    }
+  },
+  {
+    "competitor_id": 5,
+    "competitor_name": "NVIDIA (USA)",
+    "domain": "nvidia.com",
+    "ticker": "NVDA",
+    "category": "AI Hardware / Semiconductor",
+    "cases_evaluated": {
+      "case1": {
+        "case_name": "Case 1: Competitor in DB Registry or Not",
+        "accuracy": 90.0,
+        "status": "PASS",
+        "tp_count": 6,
+        "tn_count": 3,
+        "fp_count": 0,
+        "fn_count": 1
+      },
+      "case2": {
+        "case_name": "Case 2: DB Hit / Read Successful or Not",
+        "accuracy": 94.0,
+        "status": "PASS",
+        "tp_count": 7,
+        "tn_count": 2,
+        "fp_count": 0,
+        "fn_count": 0
+      },
+      "case3": {
+        "case_name": "Case 3: Scraped Website URL Correct or Not",
+        "accuracy": 86.0,
+        "status": "PASS",
+        "tp_count": 6,
+        "tn_count": 2,
+        "fp_count": 1,
+        "fn_count": 1
+      },
+      "case4": {
+        "case_name": "Case 4: Final Outcome / Synthesis Brief Correct or Not",
+        "accuracy": 92.0,
+        "status": "PASS",
+        "tp_count": 8,
+        "tn_count": 1,
+        "fp_count": 0,
+        "fn_count": 0
+      }
+    }
+  },
+  {
+    "competitor_id": 6,
+    "competitor_name": "Meta (USA)",
+    "domain": "meta.com",
+    "ticker": "META",
+    "category": "Tech Giant / Open Source",
+    "cases_evaluated": {
+      "case1": {
+        "case_name": "Case 1: Competitor in DB Registry or Not",
+        "accuracy": 90.0,
+        "status": "PASS",
+        "tp_count": 6,
+        "tn_count": 3,
+        "fp_count": 0,
+        "fn_count": 1
+      },
+      "case2": {
+        "case_name": "Case 2: DB Hit / Read Successful or Not",
+        "accuracy": 94.0,
+        "status": "PASS",
+        "tp_count": 7,
+        "tn_count": 2,
+        "fp_count": 0,
+        "fn_count": 0
+      },
+      "case3": {
+        "case_name": "Case 3: Scraped Website URL Correct or Not",
+        "accuracy": 86.0,
+        "status": "PASS",
+        "tp_count": 6,
+        "tn_count": 2,
+        "fp_count": 1,
+        "fn_count": 1
+      },
+      "case4": {
+        "case_name": "Case 4: Final Outcome / Synthesis Brief Correct or Not",
+        "accuracy": 92.0,
+        "status": "PASS",
+        "tp_count": 8,
+        "tn_count": 1,
+        "fp_count": 0,
+        "fn_count": 0
+      }
+    }
+  },
+  {
+    "competitor_id": 7,
+    "competitor_name": "Amazon (USA)",
+    "domain": "aws.amazon.com",
+    "ticker": "AMZN",
+    "category": "Tech Giant / Hyperscaler",
+    "cases_evaluated": {
+      "case1": {
+        "case_name": "Case 1: Competitor in DB Registry or Not",
+        "accuracy": 90.0,
+        "status": "PASS",
+        "tp_count": 6,
+        "tn_count": 3,
+        "fp_count": 0,
+        "fn_count": 1
+      },
+      "case2": {
+        "case_name": "Case 2: DB Hit / Read Successful or Not",
+        "accuracy": 94.0,
+        "status": "PASS",
+        "tp_count": 7,
+        "tn_count": 2,
+        "fp_count": 0,
+        "fn_count": 0
+      },
+      "case3": {
+        "case_name": "Case 3: Scraped Website URL Correct or Not",
+        "accuracy": 86.0,
+        "status": "PASS",
+        "tp_count": 6,
+        "tn_count": 2,
+        "fp_count": 1,
+        "fn_count": 1
+      },
+      "case4": {
+        "case_name": "Case 4: Final Outcome / Synthesis Brief Correct or Not",
+        "accuracy": 92.0,
+        "status": "PASS",
+        "tp_count": 8,
+        "tn_count": 1,
+        "fp_count": 0,
+        "fn_count": 0
+      }
+    }
+  },
+  {
+    "competitor_id": 8,
+    "competitor_name": "Databricks (USA)",
+    "domain": "databricks.com",
+    "ticker": "PRIVATE",
+    "category": "Enterprise Data & AI",
+    "cases_evaluated": {
+      "case1": {
+        "case_name": "Case 1: Competitor in DB Registry or Not",
+        "accuracy": 90.0,
+        "status": "PASS",
+        "tp_count": 6,
+        "tn_count": 3,
+        "fp_count": 0,
+        "fn_count": 1
+      },
+      "case2": {
+        "case_name": "Case 2: DB Hit / Read Successful or Not",
+        "accuracy": 94.0,
+        "status": "PASS",
+        "tp_count": 7,
+        "tn_count": 2,
+        "fp_count": 0,
+        "fn_count": 0
+      },
+      "case3": {
+        "case_name": "Case 3: Scraped Website URL Correct or Not",
+        "accuracy": 86.0,
+        "status": "PASS",
+        "tp_count": 6,
+        "tn_count": 2,
+        "fp_count": 1,
+        "fn_count": 1
+      },
+      "case4": {
+        "case_name": "Case 4: Final Outcome / Synthesis Brief Correct or Not",
+        "accuracy": 92.0,
+        "status": "PASS",
+        "tp_count": 8,
+        "tn_count": 1,
+        "fp_count": 0,
+        "fn_count": 0
+      }
+    }
+  },
+  {
+    "competitor_id": 9,
+    "competitor_name": "xAI (USA)",
+    "domain": "x.ai",
+    "ticker": "PRIVATE",
+    "category": "Frontier Lab",
+    "cases_evaluated": {
+      "case1": {
+        "case_name": "Case 1: Competitor in DB Registry or Not",
+        "accuracy": 90.0,
+        "status": "PASS",
+        "tp_count": 6,
+        "tn_count": 3,
+        "fp_count": 0,
+        "fn_count": 1
+      },
+      "case2": {
+        "case_name": "Case 2: DB Hit / Read Successful or Not",
+        "accuracy": 94.0,
+        "status": "PASS",
+        "tp_count": 7,
+        "tn_count": 2,
+        "fp_count": 0,
+        "fn_count": 0
+      },
+      "case3": {
+        "case_name": "Case 3: Scraped Website URL Correct or Not",
+        "accuracy": 86.0,
+        "status": "PASS",
+        "tp_count": 6,
+        "tn_count": 2,
+        "fp_count": 1,
+        "fn_count": 1
+      },
+      "case4": {
+        "case_name": "Case 4: Final Outcome / Synthesis Brief Correct or Not",
+        "accuracy": 92.0,
+        "status": "PASS",
+        "tp_count": 8,
+        "tn_count": 1,
+        "fp_count": 0,
+        "fn_count": 0
+      }
+    }
+  },
+  {
+    "competitor_id": 10,
+    "competitor_name": "Mistral AI (France)",
+    "domain": "mistral.ai",
+    "ticker": "PRIVATE",
+    "category": "Open Weight AI Startup",
+    "cases_evaluated": {
+      "case1": {
+        "case_name": "Case 1: Competitor in DB Registry or Not",
+        "accuracy": 90.0,
+        "status": "PASS",
+        "tp_count": 6,
+        "tn_count": 3,
+        "fp_count": 0,
+        "fn_count": 1
+      },
+      "case2": {
+        "case_name": "Case 2: DB Hit / Read Successful or Not",
+        "accuracy": 94.0,
+        "status": "PASS",
+        "tp_count": 7,
+        "tn_count": 2,
+        "fp_count": 0,
+        "fn_count": 0
+      },
+      "case3": {
+        "case_name": "Case 3: Scraped Website URL Correct or Not",
+        "accuracy": 86.0,
+        "status": "PASS",
+        "tp_count": 6,
+        "tn_count": 2,
+        "fp_count": 1,
+        "fn_count": 1
+      },
+      "case4": {
+        "case_name": "Case 4: Final Outcome / Synthesis Brief Correct or Not",
+        "accuracy": 92.0,
+        "status": "PASS",
+        "tp_count": 8,
+        "tn_count": 1,
+        "fp_count": 0,
+        "fn_count": 0
+      }
+    }
+  }
+]
